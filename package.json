@@ -3,7 +3,7 @@
   "name": "hudson-green-dark",
   "displayName": "Hudson Green (Dark)",
   "description": "A dark green and yellow theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "hudson-green-dark.png",
   "engines": {
     "vscode": "^1.64.0"
