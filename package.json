@@ -4,6 +4,7 @@
   "displayName": "Hudson Green (Dark)",
   "description": "A dark green and yellow theme",
   "version": "0.0.1",
+  "icon": "https://github.com/hwhitty99/hudson-green--dark-/blob/main/hudson-green-dark.png",
   "engines": {
     "vscode": "^1.64.0"
   },
